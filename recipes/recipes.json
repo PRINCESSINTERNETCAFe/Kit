@@ -1,0 +1,235 @@
+{
+	"recipe": [
+		{
+			"name": "Mapo Tofu",
+			"id": "mapo-tofu",
+			"description": "A vegan twist on a classic dish",
+			"tag": [
+				"chinese"
+			],
+			"image": "https://i.imgur.com/7LHsZL2.jpg",
+			"ingredient": [
+				{
+					"amount": "300",
+					"unit": "g",
+                    "name": "Soft Tofu (not silken)",
+                    "preparation": "cut in cubes"
+                },
+
+                {
+					"amount": "1/2",
+					"unit": "tbsp",
+                    "name": "Sichuan Peppercorns"
+                },
+                
+                {
+					"amount": "2",
+					"unit": "tbsp",
+                    "name": "Toban Djan"
+                },
+                
+                {
+					"amount": "1",
+					"unit": "tbsp",
+                    "name": "preserved black beans in chilli oil"
+				},
+
+                {
+					"amount": "40",
+					"unit": "g",
+                    "name": "dry Shiitake mushrooms",
+                    "preparation": "reconstituted in water"
+				},
+
+                {
+					"amount": "3",
+                    "name": "garlic gloves",
+                    "preparation": "crushed and minced"
+                },
+                
+                {
+					"amount": "2",
+					"unit": "tsp",
+                    "name": "ginger",
+                    "preparation": "minced"
+                },
+                
+                {
+					"amount": "",
+					"unit": "",
+                    "name": "",
+                    "preparation": ""
+                },
+                
+                {
+					"amount": "1 or 2",
+					"unit": "stalks",
+                    "name": "spring onion",
+                    "preparation": "chopped into 1 inch sections"
+                },
+
+                {
+					"amount": "1",
+					"unit": "cup",
+                    "name": "vegetable stock"
+                },
+                
+                {
+					"amount": "1",
+					"unit": "tbsp",
+                    "name": "light soy sauce"
+                },
+                
+                {
+					"amount": "1",
+					"unit": "tbsp",
+                    "name": "shaoxing wine"
+                },
+                
+                {
+					"amount": "1/4",
+					"unit": "tsp",
+                    "name": "MGS"
+                },
+                
+                {
+					"amount": "1/4",
+					"unit": "tsp",
+                    "name": "black pepper",
+                    "preparation": "powdered"
+                },
+                
+                {
+					"amount": "1/2",
+					"unit": "tbsp",
+                    "name": "toasted sesame oil"
+                },
+                
+                {
+					"amount": "1",
+					"unit": "tbsp",
+                    "name": "cornstarch",
+                    "preparation": "as a slurry, mixed with 1-2 tbsp water"
+                },
+                
+                {
+                    "name": "sunflower oil"
+
+				}
+			],
+			"ingredientGroup": [],
+			"step": [
+				{
+					"description": "Get a small pot of water up to a boil, and add in ½ tsp of salt. Add enough water so that it’d be able to submerge the tofu around 3 inches."
+                },
+                {
+					"description": "Lower to a heavy simmer, carefully add in tofu cubes. Simmer for around 3 minutes. Leave tofu cubes in the hot water until you’re ready to cook."
+                },
+                {
+					"description": "Add your Sichuan peppercorns to a wok and toast for around 1-2 minutes over a medium low flame. You’re done once you can see little oil splotches on the side of your wok."
+                },
+                {
+					"description": "Slice the green garlic, mince the garlic, mince the ginger, roughly chop the douchi fermented beans, mince the shiitake mushrooms."
+                },
+                {
+					"description": "Get the seasoning ready: Mix the 1 tbsp light soy sauce, 1 tbsp Shaoxing wine, ¼ tsp MSG, ¼ tsp white pepper powder, ½ tbsp toasted sesame oil in a container and set aside."
+                },
+                {
+					"description": "Get your wok piping hot, shut off the heat, add in the oil, and give it a swirl to get a nice non-stick surface.\nHeat on medium high now, heat the oil up until bubbles start to form around a pair of chopsticks (around 170C)."
+                },
+                {
+					"description": "Drop in the mushrooms. Fry for around four minutes."
+                },
+                {
+					"description": "Shut off the heat. Add in the chili bean paste, begin to fry. Make sure it’s not burning, then swap the flame back to medium-low."
+                },
+                {
+					"description": "Fry the chili bean paste for ~90 seconds to color and flavor the oil. Optimal temperature to fry chili bean paste in oil is 100-110C."
+                },
+                {
+					"description": "Mix in the fermented black beans in chili oil."
+                },
+                {
+					"description": "Add in the garlic and ginger and mix."
+                },
+                {
+					"description": "Add in the stock"
+                },
+                {
+					"description": "Drain the tofu cubes, then toss them in. Carefully arrange, make sure not to break the tofu."
+                },
+                {
+					"description": "Swap flame to medium high, get up to heavy simmer.\nSimmer everything for ~7 minutes, or until reduced by about one third. While simmering, carefully push the tofu back and forth to prevent sticking."
+                },
+                {
+					"description": "Add in the seasoning."
+                },
+                {
+					"description": "Add in HALF the slurry. Allow to thicken. If thickened to your liking, proceed to the next step. If not, add in the remainder of the slurry."
+                },
+                {
+					"description": "Add in the spring onions. Mix and cook for 15 seconds if using scallions."
+                },
+                {
+					"description": "Sprinkle over the Sichuan peppercorn powder. Heat off, and serve."
+				}
+			],
+			"notes": "If you don't have shiitake mushrooms, just skip them and just add a bit more of MSG.",
+			"forked": "Adapted from Chinese Cooking Demistifyed\nhttps://www.reddit.com/r/Cooking/comments/bkwppx/recipe_sichuan_mapo_tofu_revisited_%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90/"
+		},
+		{
+			"name": "",
+			"id": "",
+			"description": "",
+			"tag": [
+				""
+			],
+			"image": "",
+			"ingredient": [
+				{
+					"amount": "",
+					"unit": "",
+                    "name": "",
+                    "preparation": ""
+                },
+
+                {
+					"amount": "",
+					"unit": "",
+                    "name": "",
+                    "preparation": ""
+				}
+				
+			],
+			"ingredientGroup": [
+				{
+					"name": "",
+					"ingredient": [
+						{
+							"amount": "",
+							"unit": "",
+							"name": "",
+							"preparation": ""
+						},
+						{
+							"amount": "",
+							"unit": "",
+							"name": "",
+							"preparation": ""
+						}
+					]
+				}
+			],
+			"step": [
+				{
+					"description": ""
+				},
+				{
+					"description": ""
+				}
+			],
+			"notes": "",
+			"forked": "Name\n url"
+		}
+	]
+}
