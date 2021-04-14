@@ -92,15 +92,23 @@ nlu:
     - am I talking to a human?
     - who am I talking to?
 
-  - intent: search_recipe
+- intent: search_recipe
   examples: |
     - what's the recipe for [Mapo Tofu](dish)?
     - let's make [Mapo Tofu](dish)
     - can you bring up the recipe for [Mapo Tofu](dish)?
     - I want to cook [Mapo Tofu](dish)
     - how can I cook [Mapo Tofu](dish)?
+
+- intent: ask_clarification_ingredients
+  examples: |
+    - how much [milk](ingredient) do I need?
+    - how many [onions](ingredient)
+    - how much [pepper](ingredient) does the recipe call for?
+    - what's the amount of [soy sauce](ingredient) needed for this?
+    - how many [tomatoes](ingredient) are needed?
   
-  - intent: ask_next_step
+- intent: ask_next_step
   examples: |
     - what's next?
     - next step, please
@@ -108,14 +116,23 @@ nlu:
     - skip
     - what is the next step?
 
- - intent: ask_set_timer
+- intent: ask_repeat_step
+  examples: |
+    - what was that?
+    - can you repeat that, please
+    - please say that again
+    - sorry?
+    - repeat last step
+    - what did you say?
+
+- intent: ask_set_timer
   examples: |
     - can you set a timer for [5 minutes](time)?
     - set a timer for [2 minutes](time)
     - set an alarm for [3 minutes](time)
     - can you remind me in [6 minutes](time)
 
-  - intent: ask_cancel_timer
+- intent: ask_cancel_timer
   examples: |
     - forget about the reminder
     - do not remind me
