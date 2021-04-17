@@ -95,10 +95,10 @@ nlu:
 - intent: search_recipe
   examples: |
     - what's the recipe for [Mapo Tofu](dish)?
-    - let's make [Mapo Tofu](dish)
-    - can you bring up the recipe for [Mapo Tofu](dish)?
-    - I want to cook [Mapo Tofu](dish)
-    - how can I cook [Mapo Tofu](dish)?
+    - let's make [Fresh Pasta](dish)
+    - can you bring up the recipe for [Biang Biang Noodles](dish)?
+    - I want to cook [Lentejas](dish)
+    - how can I cook [Pisto](dish)?
 
 - intent: ask_clarification_ingredients
   examples: |
