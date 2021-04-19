@@ -4,6 +4,7 @@ session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
 intents:
+- start
 - search_recipe
 - bot_challenge
 - greet
@@ -40,6 +41,17 @@ responses:
   
   utter_iamabot:
   - text: I am a bot.
+
+  utter_welcome:
+  - text: |+
+      Hi, I'm Kit! Your virtual kitchen helper. 
+      I can help you cook by:
+      - reading out loud recipes;
+      - reminding you of measurements for ingredients;
+      - setting timers for you. 
+       
+      How can I help you today?
+
 
 actions:
 - utter_iamabot
